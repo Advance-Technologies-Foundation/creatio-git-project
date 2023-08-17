@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="it-IT">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Manutenzione" />
+			<Item Name="Columns.Case.Caption" Value="Section case" />
+			<Item Name="Columns.Culture.Caption" Value="Cultura" />
+			<Item Name="Columns.KnowledgeBase.Caption" Value="Articolo Knowledge Base" />
+			<Item Name="Columns.StageId.Caption" Value="Stadio" />
+		</Items>
+	</Group>
+</Resources>

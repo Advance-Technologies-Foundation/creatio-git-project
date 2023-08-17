@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sv-SE">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Flöde" />
+			<Item Name="LocalizableStrings.PlaybookDetailDetailCaptionOnPage.Value" Value="Playbook" />
+			<Item Name="LocalizableStrings.PlaybookTabCaption.Value" Value="Playbook" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Följ inlägg" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Du följer nu inlägg: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Tidslinje" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Sluta följa inlägg" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Du har slutat följa inlägg: {0}" />
+		</Items>
+	</Group>
+</Resources>

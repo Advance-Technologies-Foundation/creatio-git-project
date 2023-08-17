@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Playbook" />
+			<Item Name="Columns.Case.Caption" Value="Section case" />
+			<Item Name="Columns.Culture.Caption" Value="Język" />
+			<Item Name="Columns.KnowledgeBase.Caption" Value="Knowledge base article" />
+			<Item Name="Columns.StageId.Caption" Value="Etap" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="vi-VN">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Tin tức ESN" />
+			<Item Name="LocalizableStrings.PlaybookDetailDetailCaptionOnPage.Value" Value="Playbook" />
+			<Item Name="LocalizableStrings.PlaybookTabCaption.Value" Value="Playbook" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Theo dõi tin tức" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Bạn hiện đang theo dõi tin tức: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Mốc thời gian" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Bỏ theo dõi tin tức" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Bạn vừa dừng theo dõi tin tức: {0}" />
+		</Items>
+	</Group>
+</Resources>

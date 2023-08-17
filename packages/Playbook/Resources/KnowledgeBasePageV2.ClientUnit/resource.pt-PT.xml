@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pt-PT">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.PlaybookDetailDetailCaptionOnPage.Value" Value="Playbook" />
+			<Item Name="LocalizableStrings.PlaybookTabCaption.Value" Value="Playbook" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Siga o feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Está a seguir o feed: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Deixou de seguir o feed" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Parou de seguir o feed: {0}" />
+		</Items>
+	</Group>
+</Resources>

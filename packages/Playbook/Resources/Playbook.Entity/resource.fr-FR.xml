@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Guide" />
+			<Item Name="Columns.Case.Caption" Value="Cas de Section" />
+			<Item Name="Columns.Culture.Caption" Value="Langue" />
+			<Item Name="Columns.KnowledgeBase.Caption" Value="Article de la base de connaissances" />
+			<Item Name="Columns.StageId.Caption" Value="Etape" />
+		</Items>
+	</Group>
+</Resources>

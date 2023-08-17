@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="각본" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="각본" />
+			<Item Name="LocalizableStrings.StageCaption.Value" Value="단계" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="pl-PL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Kanał" />
+			<Item Name="LocalizableStrings.PlaybookDetailDetailCaptionOnPage.Value" Value="Playbook" />
+			<Item Name="LocalizableStrings.PlaybookTabCaption.Value" Value="Playbook" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Śledź kanał informacji" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Od tej chwili śledzisz następujący kanał: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Zakończ śledzenie kanału" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Przestałeś śledzić kanał: {0}" />
+		</Items>
+	</Group>
+</Resources>

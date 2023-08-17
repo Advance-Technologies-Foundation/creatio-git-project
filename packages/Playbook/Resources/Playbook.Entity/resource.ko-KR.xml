@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="각본" />
+			<Item Name="Columns.Case.Caption" Value="섹션 사건" />
+			<Item Name="Columns.Culture.Caption" Value="문화" />
+			<Item Name="Columns.KnowledgeBase.Caption" Value="기술 자료 문서" />
+			<Item Name="Columns.StageId.Caption" Value="단계" />
+		</Items>
+	</Group>
+</Resources>

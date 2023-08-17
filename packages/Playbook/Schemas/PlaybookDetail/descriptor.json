@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "635fe9b8-7674-48ab-b97b-4d93f2da1a89",
+    "Name": "PlaybookDetail",
+    "ModifiedOnUtc": "\/Date(1622206934000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Detail schema: \"Playbook\"",
+    "DependsOn": []
+  }
+}

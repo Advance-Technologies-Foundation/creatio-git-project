@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Kanál" />
+			<Item Name="LocalizableStrings.PlaybookDetailDetailCaptionOnPage.Value" Value="Příručka" />
+			<Item Name="LocalizableStrings.PlaybookTabCaption.Value" Value="Příručka" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Sledovat kanál" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Nyní sledujete kanál: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Časová osa" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Zrušit sledování kanálu" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Přestali jste sledovat kanál: {0}" />
+		</Items>
+	</Group>
+</Resources>

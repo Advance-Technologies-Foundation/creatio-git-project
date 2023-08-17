@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "03b6e0d3-5d54-4b4b-b27a-47cda46afbe5",
+    "Name": "Playbook",
+    "ModifiedOnUtc": "\/Date(1622728737000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Playbook",
+    "DependsOn": []
+  }
+}

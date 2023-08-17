@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ar-SA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Images.88e9098a-a48c-a3af-894f-6a5728392ab3.Caption" Value="PlaybookImage" />
+			<Item Name="LocalizableStrings.PlaybookButtonCaption.Value" Value="Playbook" />
+		</Items>
+	</Group>
+</Resources>

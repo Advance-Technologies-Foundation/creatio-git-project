@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "cfb9088d-1188-4f8c-9a3d-de28f149d427",
+    "Name": "PlaybookIframeControl",
+    "ModifiedOnUtc": "\/Date(1633006968000)\/",
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "PlaybookIframeControl",
+    "DependsOn": []
+  }
+}

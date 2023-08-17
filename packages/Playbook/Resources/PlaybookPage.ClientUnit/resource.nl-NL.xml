@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Playbook" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Playbook" />
+			<Item Name="LocalizableStrings.StageCaption.Value" Value="Fase" />
+		</Items>
+	</Group>
+</Resources>

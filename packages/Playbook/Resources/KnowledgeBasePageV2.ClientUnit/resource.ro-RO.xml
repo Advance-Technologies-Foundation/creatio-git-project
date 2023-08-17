@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ro-RO">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
+			<Item Name="LocalizableStrings.PlaybookDetailDetailCaptionOnPage.Value" Value="Playbook" />
+			<Item Name="LocalizableStrings.PlaybookTabCaption.Value" Value="Playbook" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Follow feed" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="In acest moment urmati alimentarea: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Timeline" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Renuntati la urmarirea alimentarii" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Ati renuntat la urmarirea alimentarii: {0}" />
+		</Items>
+	</Group>
+</Resources>

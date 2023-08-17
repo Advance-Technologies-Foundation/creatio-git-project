@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="플레이북 미니 페이지" />
+			<Item Name="LocalizableStrings.CloseButtonCaption.Value" Value="닫기" />
+		</Items>
+	</Group>
+</Resources>

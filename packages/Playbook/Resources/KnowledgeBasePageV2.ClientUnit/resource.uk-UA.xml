@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Стрічка" />
+			<Item Name="LocalizableStrings.PlaybookDetailDetailCaptionOnPage.Value" Value="Playbook" />
+			<Item Name="LocalizableStrings.PlaybookTabCaption.Value" Value="Playbook" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Підписатись на оновлення стрічки" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Ви підписані на оновлення стрічки: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Хронологія" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Відписатись від оновлень стрічки" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Ви відписані від оновлень стрічки: {0}" />
+		</Items>
+	</Group>
+</Resources>

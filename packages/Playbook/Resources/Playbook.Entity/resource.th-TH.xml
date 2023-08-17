@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Playbook" />
+			<Item Name="Columns.Case.Caption" Value="Section case" />
+			<Item Name="Columns.Culture.Caption" Value="วัฒนธรรม" />
+			<Item Name="Columns.KnowledgeBase.Caption" Value="บทความฐานความรู้" />
+			<Item Name="Columns.StageId.Caption" Value="ช่วงขั้นตอน" />
+		</Items>
+	</Group>
+</Resources>

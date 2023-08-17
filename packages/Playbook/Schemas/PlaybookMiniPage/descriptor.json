@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "9b926a10-a68e-4aa0-a233-dbd2ed149d36",
+    "Name": "PlaybookMiniPage",
+    "ModifiedOnUtc": "\/Date(1622542150000)\/",
+    "Parent": {
+      "UId": "8e06a577-08e4-424e-bd89-798a34e1b928",
+      "Name": "BaseMiniPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "PlaybookMiniPage",
+    "DependsOn": []
+  }
+}

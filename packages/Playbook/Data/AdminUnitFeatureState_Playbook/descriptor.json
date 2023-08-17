@@ -1,0 +1,42 @@
+﻿{
+  "Descriptor": {
+    "UId": "a0874238-6265-cb35-b732-ed34ebd7fef6",
+    "Name": "AdminUnitFeatureState_Playbook",
+    "ModifiedOnUtc": "\/Date(1621415845000)\/",
+    "InstallType": 0,
+    "Schema": {
+      "UId": "e7bf0241-29e5-48e6-a09a-8102ae016205",
+      "Name": "AdminUnitFeatureState"
+    },
+    "Columns": [
+      {
+        "ColumnUId": "82b72e0d-42a3-4857-8445-0279b66e7e2c",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "FeatureState",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "9ba728be-e5cd-451d-a74a-c4a047c374b3",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "SysAdminUnit",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "631177f9-f983-4787-a7aa-ced1b24ba918",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Feature",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      }
+    ]
+  }
+}

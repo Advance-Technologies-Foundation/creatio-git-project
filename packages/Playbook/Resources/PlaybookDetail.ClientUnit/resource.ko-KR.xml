@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="상세 스키마: &quot;플레이북&quot;" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="각본" />
+			<Item Name="LocalizableStrings.VersionCaption.Value" Value="버전" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="ko-KR">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="피드" />
+			<Item Name="LocalizableStrings.PlaybookDetailDetailCaptionOnPage.Value" Value="각본" />
+			<Item Name="LocalizableStrings.PlaybookTabCaption.Value" Value="각본" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="피드를 따라" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="이제 피드를 따르고 있습니다. {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="연대표" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="피드 팔로우 해제" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="다음 피드를 중지했습니다. {0}" />
+		</Items>
+	</Group>
+</Resources>

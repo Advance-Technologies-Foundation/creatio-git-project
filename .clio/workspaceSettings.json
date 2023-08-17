@@ -1,4 +1,4 @@
 {
-  "Packages": [],
+  "Packages": ["Playbook"],
   "ApplicationVersion": "8.0.9"
 }

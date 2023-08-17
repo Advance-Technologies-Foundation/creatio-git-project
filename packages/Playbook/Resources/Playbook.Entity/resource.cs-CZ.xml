@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="cs-CZ">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Příručka" />
+			<Item Name="Columns.Case.Caption" Value="Případ sekce" />
+			<Item Name="Columns.Culture.Caption" Value="Kultura" />
+			<Item Name="Columns.KnowledgeBase.Caption" Value="Článek ve znalostní databázi" />
+			<Item Name="Columns.StageId.Caption" Value="Fáze" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,23 @@
+= MetaData.Schema.UId "9b926a10-a68e-4aa0-a233-dbd2ed149d36"
+= MetaData.Schema.A2 "PlaybookMiniPage"
+= MetaData.Schema.A5 "af8c8927-76c1-4845-8b4f-d43e4da6b69c"
++ MetaData.Schema.B2 {
+  "UId": "9d9ddae3-fdd9-a656-c40e-85ff3f8760fc",
+  "A2": "CloseButtonCaption",
+  "A3": "9b926a10-a68e-4aa0-a233-dbd2ed149d36",
+  "A4": "9b926a10-a68e-4aa0-a233-dbd2ed149d36",
+  "A5": "af8c8927-76c1-4845-8b4f-d43e4da6b69c"
+}
+= MetaData.Schema.B2.["a054d45a-e826-460c-8478-c4bfc1a08a0d"].A4 "9b926a10-a68e-4aa0-a233-dbd2ed149d36"
+= MetaData.Schema.B2.["a054d45a-e826-460c-8478-c4bfc1a08a0d"].A5 "af8c8927-76c1-4845-8b4f-d43e4da6b69c"
+= MetaData.Schema.B2.["147850c9-2b90-4432-b075-ad078f75ff3b"].A4 "9b926a10-a68e-4aa0-a233-dbd2ed149d36"
+= MetaData.Schema.B2.["147850c9-2b90-4432-b075-ad078f75ff3b"].A5 "af8c8927-76c1-4845-8b4f-d43e4da6b69c"
+= MetaData.Schema.B2.["5fe0512f-ad76-4f3f-bef7-fbf81c5230a9"].A4 "9b926a10-a68e-4aa0-a233-dbd2ed149d36"
+= MetaData.Schema.B2.["5fe0512f-ad76-4f3f-bef7-fbf81c5230a9"].A5 "af8c8927-76c1-4845-8b4f-d43e4da6b69c"
+~ MetaData.Schema.B2 ["9d9ddae3-fdd9-a656-c40e-85ff3f8760fc","a054d45a-e826-460c-8478-c4bfc1a08a0d","147850c9-2b90-4432-b075-ad078f75ff3b","5fe0512f-ad76-4f3f-bef7-fbf81c5230a9"]
+= MetaData.Schema.B6 "36d65faf-3f18-1cae-d2cb-b71c4414d164"
+= MetaData.Schema.B8 "0.0.0.0"
+= MetaData.Schema.HD1 "8e06a577-08e4-424e-bd89-798a34e1b928"
+- MetaData.Schema.B7
+- MetaData.Schema.HD12
++ MetaData.Schema.B7 false

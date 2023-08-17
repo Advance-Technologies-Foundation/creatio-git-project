@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="fr-FR">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Guide" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Guide" />
+			<Item Name="LocalizableStrings.StageCaption.Value" Value="Etape" />
+		</Items>
+	</Group>
+</Resources>

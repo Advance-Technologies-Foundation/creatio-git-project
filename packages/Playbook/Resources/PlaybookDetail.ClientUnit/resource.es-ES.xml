@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="es-ES">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Esquema de detalle: &quot;Libro de Instrucciones&quot;" />
+			<Item Name="LocalizableStrings.Caption.Value" Value="Playbook" />
+			<Item Name="LocalizableStrings.VersionCaption.Value" Value="version" />
+		</Items>
+	</Group>
+</Resources>

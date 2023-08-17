@@ -1,0 +1,26 @@
+﻿{
+  "Descriptor": {
+    "UId": "36d65faf-3f18-1cae-d2cb-b71c4414d164",
+    "PackageVersion": "7.8.0",
+    "Name": "Playbook",
+    "ModifiedOnUtc": "\/Date(1664897826000)\/",
+    "Maintainer": "Terrasoft",
+    "DependsOn": [
+      {
+        "UId": "a17d52e6-97ab-6f7f-17aa-f0e197e488ea",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtUIv2"
+      },
+      {
+        "UId": "ae8519c2-2aac-4a00-aa61-b0ffaac99ea3",
+        "PackageVersion": "7.8.0",
+        "Name": "ActionsDashboard"
+      },
+      {
+        "UId": "b1eb54a2-9569-45de-81cb-a24654c09264",
+        "PackageVersion": "7.8.0",
+        "Name": "DcmLibrary"
+      }
+    ]
+  }
+}
