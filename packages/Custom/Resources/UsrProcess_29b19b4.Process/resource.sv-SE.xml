@@ -2,7 +2,7 @@
 <Resources Culture="sv-SE">
 	<Group Type="String">
 		<Items>
-			<Item Name="Caption" Value="Business process 1" />
+			<Item Name="Caption" Value="named process one" />
 		</Items>
 	</Group>
 </Resources>

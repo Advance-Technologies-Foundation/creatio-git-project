@@ -1,4 +1,4 @@
-@REM clio restorew -e Postman
+clio restorew -e Postman
 git add .
-git commit -m "message here"
+git commit -m "sync at %date% %time%"
 git push
