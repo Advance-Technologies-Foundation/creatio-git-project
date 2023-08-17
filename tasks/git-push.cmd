@@ -1,5 +1,5 @@
 git checkout
-clio restorew
+@REM clio restorew
 git add .
 git commit -m "sync at %date% %time%"
 git push
