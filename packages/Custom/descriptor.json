@@ -1,0 +1,1318 @@
+﻿{
+  "Descriptor": {
+    "UId": "a00051f4-cde3-4f3f-b08e-c5ad1a5c735a",
+    "Name": "Custom",
+    "ModifiedOnUtc": "\/Date(1681856118000)\/",
+    "Maintainer": "Customer",
+    "Description": "Custom Package",
+    "DependsOn": [
+      {
+        "UId": "003be62f-2ffc-4b4f-a2a7-60f101277377",
+        "PackageVersion": "7.8.0",
+        "Name": "ML"
+      },
+      {
+        "UId": "00fddb09-8590-4099-bd2a-922074864dea",
+        "PackageVersion": "7.8.0",
+        "Name": "WebitelCollaborations"
+      },
+      {
+        "UId": "012e2e14-082b-ac2b-da5a-2fc87bad41d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCore",
+        "Type": 1
+      },
+      {
+        "UId": "02947595-4670-48e3-80ea-f278e3c9391c",
+        "PackageVersion": "7.8.0",
+        "Name": "MLBase"
+      },
+      {
+        "UId": "02abeaad-7dcc-4f15-86c9-cd6090362e82",
+        "PackageVersion": "7.8.0",
+        "Name": "AnalyticsDashboard"
+      },
+      {
+        "UId": "02faab18-ad26-4636-ae5d-d4a010405ba9",
+        "PackageVersion": "7.8.0",
+        "Name": "BulkEmail"
+      },
+      {
+        "UId": "0385d47d-7cee-e231-2476-54846fa305ea",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtMobile7x"
+      },
+      {
+        "UId": "05e3bd13-d61c-4610-af15-eb6e6173ef60",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCoreMessagePublishers"
+      },
+      {
+        "UId": "062de047-62f1-4580-85e2-0417d450a3a8",
+        "PackageVersion": "7.8.0",
+        "Name": "BaseScoring"
+      },
+      {
+        "UId": "06d9ef10-51d8-122c-8933-9212e84236c9",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtBase"
+      },
+      {
+        "UId": "08c80cf3-52f3-43fa-b450-d1815fb07619",
+        "PackageVersion": "7.8.0",
+        "Name": "EmailMessagePublisher"
+      },
+      {
+        "UId": "09869c10-1e01-f34c-e963-d3f5290feef6",
+        "PackageVersion": "7.8.0",
+        "Name": "FolderTree"
+      },
+      {
+        "UId": "0d13113a-287e-c0ff-f4f6-cf9ec5dddf35",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtESN"
+      },
+      {
+        "UId": "0daea9e4-b08a-abb1-687e-7dc834448743",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCase7x"
+      },
+      {
+        "UId": "0e3a338b-4114-4088-87a2-6333f4528399",
+        "PackageVersion": "7.8.0",
+        "Name": "ChangeAdminRightsUserTask"
+      },
+      {
+        "UId": "0ece3a34-413f-415b-919b-7b29bb31701f",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_Obsolete"
+      },
+      {
+        "UId": "0fbe5e70-0ba1-4c52-b35d-ca1c4a3acde7",
+        "PackageVersion": "7.8.0",
+        "Name": "GoogleTagManagerMeasurements"
+      },
+      {
+        "UId": "10cb6199-40c6-4b6d-9d0e-500310d45f57",
+        "PackageVersion": "7.8.0",
+        "Name": "Case"
+      },
+      {
+        "UId": "148ab29f-ee31-44cb-9d3d-883c69ca3d1e",
+        "PackageVersion": "7.8.0",
+        "Name": "SspKnowledgeBase"
+      },
+      {
+        "UId": "16d6c866-8a77-5b2f-aec6-9147c219f4e1",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtMobileDesignerTools7x"
+      },
+      {
+        "UId": "16f3a449-34d6-461f-aa52-053fcf308201",
+        "PackageVersion": "7.8.0",
+        "Name": "Base_Obsolete"
+      },
+      {
+        "UId": "19ffbb3e-f1b4-4636-999c-1e2c57d86eb6",
+        "PackageVersion": "7.8.0",
+        "Name": "Message"
+      },
+      {
+        "UId": "1aae3320-3dcd-4847-a711-a794854269bc",
+        "PackageVersion": "7.8.0",
+        "Name": "MobileDesignerTools"
+      },
+      {
+        "UId": "1b8e5379-858b-4e6e-bd68-b0d1e329c890",
+        "PackageVersion": "7.8.0",
+        "Name": "EntityCollectionUserTasks"
+      },
+      {
+        "UId": "1da54b45-dc3f-448e-9444-a8c700733642",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCatalogueInInvoice"
+      },
+      {
+        "UId": "1e385500-767f-1fe9-9471-68ce6d9147d4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEventInC360",
+        "Type": 1
+      },
+      {
+        "UId": "1eefea8c-efe3-53d9-6397-3aac9cc9e785",
+        "PackageVersion": "7.8.0",
+        "Name": "Approval"
+      },
+      {
+        "UId": "1f513d05-8e3f-4989-92ce-3af40e5127d6",
+        "PackageVersion": "7.8.0",
+        "Name": "CaseService"
+      },
+      {
+        "UId": "1fb3f59e-2a65-3932-22f2-8196fd879dc5",
+        "PackageVersion": "7.8.0",
+        "Name": "QueryExecutionRules"
+      },
+      {
+        "UId": "22c5e4a0-49e8-4e6b-97e8-c22ed249b85a",
+        "PackageVersion": "7.8.0",
+        "Name": "CTIVirtualProvider"
+      },
+      {
+        "UId": "23109609-1650-4a4b-aecb-d0974c538074",
+        "PackageVersion": "7.8.0",
+        "Name": "OrderLead"
+      },
+      {
+        "UId": "243675c8-b31d-0dec-5336-2e282f5f48c1",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtBulkEmailInC360",
+        "Type": 1
+      },
+      {
+        "UId": "256c1fdd-eb0d-4417-8768-8be76ab2d4f6",
+        "PackageVersion": "7.8.0",
+        "Name": "OrderInSales_OperatorSingleWindow"
+      },
+      {
+        "UId": "25b0287a-c3a8-4066-b6ef-e5dad7c3be5a",
+        "PackageVersion": "7.8.0",
+        "Name": "OrderInvoice"
+      },
+      {
+        "UId": "261b9fdc-b686-40b2-84ce-875d9130622a",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesCommon"
+      },
+      {
+        "UId": "26fdbab7-6839-4009-9ab8-7f54a68f6924",
+        "PackageVersion": "7.6.0",
+        "Name": "SendEmailUserTask"
+      },
+      {
+        "UId": "29996b0e-2b19-27a8-dab4-67fbc00db573",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtProcessDesigner"
+      },
+      {
+        "UId": "29c7b5a2-1b24-4486-9276-6f30e0b427b5",
+        "PackageVersion": "7.8.0",
+        "Name": "CoreContracts"
+      },
+      {
+        "UId": "29cc7059-9bc1-0abb-b996-cc8f27d0709c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtAnalyticsDashboard"
+      },
+      {
+        "UId": "2a38dfee-ddf9-4e0f-9e97-47a4c6c42f29",
+        "PackageVersion": "7.8.0",
+        "Name": "SspWorkplace"
+      },
+      {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
+        "Type": 1
+      },
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      },
+      {
+        "UId": "31e14e51-cc95-7873-9385-29c34642bde2",
+        "PackageVersion": "7.8.0",
+        "Name": "MLProcessDesigner",
+        "Type": 1
+      },
+      {
+        "UId": "3218e5ec-25c1-472b-9de0-1673e071a79f",
+        "PackageVersion": "7.8.0",
+        "Name": "Platform"
+      },
+      {
+        "UId": "326543f4-25dd-66e2-ba56-0192de3be569",
+        "PackageVersion": "7.8.0",
+        "Name": "MLSequencePrediction"
+      },
+      {
+        "UId": "328093b7-9f9d-4fd1-9027-759f15040c07",
+        "PackageVersion": "7.8.0",
+        "Name": "InvoiceInProject"
+      },
+      {
+        "UId": "32986af5-84d9-4842-854e-9e8187522253",
+        "PackageVersion": "7.8.0",
+        "Name": "LinkPreview"
+      },
+      {
+        "UId": "33516fc5-1c52-ed30-264b-a3cbcd3d1b33",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtOrderContractInC360",
+        "Type": 1
+      },
+      {
+        "UId": "335c46ac-da94-33b1-a9b5-03a3f3644fe8",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCaseService"
+      },
+      {
+        "UId": "340c8ef4-1ca9-4428-b5d1-f27b4b4dc047",
+        "PackageVersion": "7.8.0",
+        "Name": "OrderInSales_OperatorSingleWindow_Softkey_Obsolete"
+      },
+      {
+        "UId": "34a08715-d94b-478c-887e-dbb951baceeb",
+        "PackageVersion": "7.8.0",
+        "Name": "CoreLead"
+      },
+      {
+        "UId": "34f1f5ff-85fa-4f33-802a-1befad411acd",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCatalogueInOrder"
+      },
+      {
+        "UId": "36d65faf-3f18-1cae-d2cb-b71c4414d164",
+        "PackageVersion": "7.8.0",
+        "Name": "Playbook"
+      },
+      {
+        "UId": "379003f3-74dc-4305-c4de-04f43be2bfb0",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360Mobile"
+      },
+      {
+        "UId": "3979ff30-e540-4bb1-ad27-b87d378563be",
+        "PackageVersion": "7.8.0",
+        "Name": "PRMOrder"
+      },
+      {
+        "UId": "39d703cc-a16f-4e81-8304-304288ac685a",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceDesigner"
+      },
+      {
+        "UId": "3c128921-97b8-4703-b2b9-78ff1b1a5d80",
+        "PackageVersion": "7.8.0",
+        "Name": "MobileDesigner"
+      },
+      {
+        "UId": "3d3ced06-8d6d-4076-a213-68678ade00cd",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCatalogue"
+      },
+      {
+        "UId": "3e884542-e958-4f64-b6de-a1b587b3b7e5",
+        "PackageVersion": "7.8.0",
+        "Name": "Opportunity"
+      },
+      {
+        "UId": "3efa1d97-299e-a860-39e3-426b251b4548",
+        "PackageVersion": "7.8.0",
+        "Name": "TasksQueue"
+      },
+      {
+        "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      },
+      {
+        "UId": "40407e3f-e2ec-4ff5-8b03-d9de5f7e5b7c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtESN7x"
+      },
+      {
+        "UId": "41e882f0-2560-257b-a881-a619d3f2584c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCaseService7x"
+      },
+      {
+        "UId": "4204dd64-db74-42cc-896b-6f690204c4e6",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductSpecification"
+      },
+      {
+        "UId": "422cc048-65aa-8f90-e8ed-7fa6d5ab06b1",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtNUI"
+      },
+      {
+        "UId": "438290c5-0107-b9b9-a78e-74fa3af92817",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtDeduplication"
+      },
+      {
+        "UId": "43d663d1-6ab9-4369-903c-f804cacc55e4",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCaseManagementApp",
+        "Type": 1
+      },
+      {
+        "UId": "468413c6-da9a-4bae-a3e9-31456fea166d",
+        "PackageVersion": "7.8.0",
+        "Name": "EmailMining"
+      },
+      {
+        "UId": "48469596-f6ef-4712-b715-6351ea63a2c3",
+        "PackageVersion": "7.8.0",
+        "Name": "PortalMessage"
+      },
+      {
+        "UId": "485dbdb7-7852-4259-8f94-04ba05c2f3f1",
+        "PackageVersion": "7.8.0",
+        "Name": "DocumentInOrder"
+      },
+      {
+        "UId": "48e0ca36-a7b4-40c2-a3b8-abb48d3affe4",
+        "PackageVersion": "7.8.0",
+        "Name": "Change"
+      },
+      {
+        "UId": "4a37386b-d976-41f8-a469-63bd93d24027",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductBase"
+      },
+      {
+        "UId": "4ad85a1f-fce6-4063-9374-57b542964388",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceModel"
+      },
+      {
+        "UId": "4e73fa03-93ef-4f81-12f9-2182efad1e2a",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtJunkFilter"
+      },
+      {
+        "UId": "4e9b7aff-71f7-46eb-bad9-60cfdc0a54c2",
+        "PackageVersion": "7.8.0",
+        "Name": "CallMessagePublisher"
+      },
+      {
+        "UId": "4f133891-3afb-434f-a2e2-d1e22ac1dc67",
+        "PackageVersion": "7.8.0",
+        "Name": "SiteEventProductOmnichannel"
+      },
+      {
+        "UId": "5048abef-9ed6-4a50-97bd-e91dea4ac632",
+        "PackageVersion": "7.8.0",
+        "Name": "CTIBase"
+      },
+      {
+        "UId": "516f7ad2-afe0-4d38-bdc6-9e3e15a172ef",
+        "PackageVersion": "7.8.0",
+        "Name": "BaseProcessDesigner"
+      },
+      {
+        "UId": "52630158-3e5b-2e48-e55c-cf78a2439812",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtSalesInC360",
+        "Type": 1
+      },
+      {
+        "UId": "5287f356-5147-466d-af37-d408f89e5466",
+        "PackageVersion": "7.8.0",
+        "Name": "IntegrationV2"
+      },
+      {
+        "UId": "540d903b-32bd-427f-8069-250ef5c97912",
+        "PackageVersion": "7.8.0",
+        "Name": "Problem"
+      },
+      {
+        "UId": "542c6647-bf72-4fb4-9ee5-eed4ca062ae2",
+        "PackageVersion": "7.8.0",
+        "Name": "EventTracking"
+      },
+      {
+        "UId": "548b7d51-8c4b-4bbf-915a-ff8064be2c57",
+        "PackageVersion": "7.8.0",
+        "Name": "MarketingCalendarNew"
+      },
+      {
+        "UId": "5496275d-2f56-4810-b46b-7098f10815d5",
+        "PackageVersion": "7.8.0",
+        "Name": "MLRegression"
+      },
+      {
+        "UId": "55713117-1fcf-61da-18ae-24b15a24844b",
+        "PackageVersion": "7.8.0",
+        "Name": "RecommendedProduct"
+      },
+      {
+        "UId": "55c9e8f9-cc01-538b-9878-9326da9e7078",
+        "PackageVersion": "7.8.0",
+        "Name": "TouchPoints"
+      },
+      {
+        "UId": "58e9c00d-3e0f-f5e4-619c-208d7f46eb6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtPortal7x"
+      },
+      {
+        "UId": "5932ac85-0d31-43c8-aeef-8b7dc5b56f60",
+        "PackageVersion": "7.8.0",
+        "Name": "FileImport"
+      },
+      {
+        "UId": "5b40ec36-fc30-4a74-9b55-a0748188841e",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesCommerceData"
+      },
+      {
+        "UId": "5be3998b-c5c3-42bb-a01c-2e4149059a97",
+        "PackageVersion": "7.8.0",
+        "Name": "Base"
+      },
+      {
+        "UId": "5ccda9f8-70d4-449b-8fc1-9aa8f6fe02c1",
+        "PackageVersion": "7.8.0",
+        "Name": "CaseITIL"
+      },
+      {
+        "UId": "5d7eac18-85f9-4e44-8f46-03a07f2acb3a",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceDefSettings"
+      },
+      {
+        "UId": "5e8400f1-2850-4048-bcfe-d1ac195bbe9e",
+        "PackageVersion": "7.8.0",
+        "Name": "ProcessLibrary"
+      },
+      {
+        "UId": "5ef9db41-8594-97d1-ab9d-8ca7106e5e53",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCaseManagement",
+        "Type": 1
+      },
+      {
+        "UId": "5fa17185-77eb-462d-addc-1a6d2fbeb390",
+        "PackageVersion": "7.8.0",
+        "Name": "SiteEvent"
+      },
+      {
+        "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+        "PackageVersion": "7.8.0",
+        "Name": "UIv2"
+      },
+      {
+        "UId": "62e2670f-4c32-43aa-bc37-36955a5d8127",
+        "PackageVersion": "7.8.0",
+        "Name": "PRMBase"
+      },
+      {
+        "UId": "6651f29c-3f6e-4519-a8f4-127deb7515e2",
+        "PackageVersion": "7.8.0",
+        "Name": "WebForm"
+      },
+      {
+        "UId": "6688415a-fadb-494e-a018-5618e8b6926e",
+        "PackageVersion": "7.8.0",
+        "Name": "CalendarBase"
+      },
+      {
+        "UId": "6788af15-3256-4d5f-aa61-b903e0df4f20",
+        "PackageVersion": "7.8.0",
+        "Name": "ProcessUserContext"
+      },
+      {
+        "UId": "689fd58d-357b-4882-a93c-b72f0e56738d",
+        "PackageVersion": "7.8.0",
+        "Name": "Lead"
+      },
+      {
+        "UId": "68cc6c19-a608-8ca9-caa4-c3ceb523cf76",
+        "PackageVersion": "7.8.0",
+        "Name": "MLSimilarCaseSearch"
+      },
+      {
+        "UId": "68ee82f8-280b-40ce-951d-6e93d2945a8f",
+        "PackageVersion": "7.8.0",
+        "Name": "WebLeadForm"
+      },
+      {
+        "UId": "692a159e-9044-4f75-85a8-855bdb86a76d",
+        "PackageVersion": "7.8.0",
+        "Name": "OperatorSingleWindow"
+      },
+      {
+        "UId": "6c904dc5-03d7-409a-aa98-dfa2ec97aa02",
+        "PackageVersion": "7.8.0",
+        "Name": "SLMITILService"
+      },
+      {
+        "UId": "6ea32650-c611-c103-15bf-0c2f8441d954",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtInvoiceInC360",
+        "Type": 1
+      },
+      {
+        "UId": "6f46362b-0d60-47d7-b211-fc5e4117aecb",
+        "PackageVersion": "7.8.0",
+        "Name": "ProcessDesigner"
+      },
+      {
+        "UId": "717ae717-4556-4ed5-9675-3ab7d3c2eeb5",
+        "PackageVersion": "7.8.0",
+        "Name": "FeatureToggling",
+        "Type": 1
+      },
+      {
+        "UId": "71ac8fee-9abc-021a-2cd0-ead17fe5d9f9",
+        "PackageVersion": "7.8.0",
+        "Name": "CSP",
+        "Type": 1
+      },
+      {
+        "UId": "7252c5e2-120b-47c9-bcf7-260367039743",
+        "PackageVersion": "7.8.0",
+        "Name": "DcmDesigner"
+      },
+      {
+        "UId": "72dfd004-1fad-41fa-ad05-3cbc97f2958e",
+        "PackageVersion": "7.8.0",
+        "Name": "CoreLeadOpportunity"
+      },
+      {
+        "UId": "74b9f4af-7233-4e6c-ad5f-a32149516edb",
+        "PackageVersion": "7.8.0",
+        "Name": "CampaignDesigner"
+      },
+      {
+        "UId": "75b64d44-f646-4025-b2dc-16a7526ff5fd",
+        "PackageVersion": "7.8.0",
+        "Name": "OpportunityManagement"
+      },
+      {
+        "UId": "76c2f1ba-2917-4eea-8bd0-e2cfd8cc3dde",
+        "PackageVersion": "7.8.0",
+        "Name": "Completeness"
+      },
+      {
+        "UId": "76d633dd-63f4-4955-b36c-e6042cb74dfd",
+        "PackageVersion": "7.8.0",
+        "Name": "IncidentManagement"
+      },
+      {
+        "UId": "77bed8af-9708-4ab9-9a7d-dc6f243c3fe0",
+        "PackageVersion": "7.8.0",
+        "Name": "WebitelCore"
+      },
+      {
+        "UId": "77e888d2-c4a4-45ce-a906-ac00adb364a2",
+        "PackageVersion": "7.8.0",
+        "Name": "Translation"
+      },
+      {
+        "UId": "789c617e-760f-4576-a608-ee12728eae0a",
+        "PackageVersion": "7.8.0",
+        "Name": "MarketingCampaign"
+      },
+      {
+        "UId": "78ae52a2-7d50-48a5-9d4e-9cbec55c3d67",
+        "PackageVersion": "7.8.0",
+        "Name": "MarketingSoftkeyEnu"
+      },
+      {
+        "UId": "7aba540c-a7dc-465e-8a22-54ef78fcb5a5",
+        "PackageVersion": "7.8.0",
+        "Name": "SocialMessagePublisher"
+      },
+      {
+        "UId": "7abbbf20-b753-485c-a542-a305574ec2b3",
+        "PackageVersion": "7.8.0",
+        "Name": "CaseMobile"
+      },
+      {
+        "UId": "7af58b18-f77d-4661-a3f9-889bd0e62c92",
+        "PackageVersion": "7.8.0",
+        "Name": "WebCaseForm"
+      },
+      {
+        "UId": "7b8cc90f-3354-9b16-defe-bff33fc9cf26",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtPlatform7x"
+      },
+      {
+        "UId": "7bac304b-286a-411a-bee0-62e8a0114359",
+        "PackageVersion": "7.8.0",
+        "Name": "PRMMktgActivitiesPortal"
+      },
+      {
+        "UId": "7caa41bd-a942-40b1-99dc-7a30f60895e4",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesContracts"
+      },
+      {
+        "UId": "7e09ae35-8d23-a42c-aacf-9f6b17a81c35",
+        "PackageVersion": "7.8.0",
+        "Name": "BusinessRuleDesigner7x"
+      },
+      {
+        "UId": "7ecd2886-795a-4933-9ffb-5358f353a555",
+        "PackageVersion": "7.8.0",
+        "Name": "Mobile"
+      },
+      {
+        "UId": "7f8469ff-cb9b-40f6-a5f5-6aa3ddded07a",
+        "PackageVersion": "7.8.0",
+        "Name": "HomePage"
+      },
+      {
+        "UId": "8073e9c8-edb1-3d73-2e54-55b005de61ec",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtSLAInC360",
+        "Type": 1
+      },
+      {
+        "UId": "82306a23-d5c6-420b-b81b-2d145f8e2f34",
+        "PackageVersion": "7.8.0",
+        "Name": "SSP"
+      },
+      {
+        "UId": "83b1062a-d944-eba7-a72b-5400034c6223",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCaseManagmentObject"
+      },
+      {
+        "UId": "864d1545-a641-46c3-b866-e57bd6d39579",
+        "PackageVersion": "7.8.0",
+        "Name": "BpmonlineCloudIntegration"
+      },
+      {
+        "UId": "86855550-4426-427b-be00-b859353b97a8",
+        "PackageVersion": "7.8.0",
+        "Name": "Portal"
+      },
+      {
+        "UId": "883305e0-1bdc-497c-a518-bbe2bd7bf1c3",
+        "PackageVersion": "7.8.0",
+        "Name": "MarketingCommon"
+      },
+      {
+        "UId": "888c43e4-303c-47a2-a2ad-0dbd75160f19",
+        "PackageVersion": "7.8.0",
+        "Name": "CampaignPlannerNew"
+      },
+      {
+        "UId": "89fcb3d7-acf9-4801-b20b-6718c5ef3d5e",
+        "PackageVersion": "7.8.0",
+        "Name": "OrderInSales_OperatorSingleWindow_Softkey_ENU"
+      },
+      {
+        "UId": "8bbee491-7461-4bb3-86e3-e2dc29ae02df",
+        "PackageVersion": "7.8.0",
+        "Name": "EmailTemplate"
+      },
+      {
+        "UId": "8cefda2b-889f-4b69-bed1-f33bf7f6d00c",
+        "PackageVersion": "7.8.0",
+        "Name": "TwitterIntegration"
+      },
+      {
+        "UId": "8d48ade0-350e-7694-49aa-2a913c356ce1",
+        "PackageVersion": "7.8.0",
+        "Name": "OldGoogleIntegration"
+      },
+      {
+        "UId": "8d4f0b39-6e71-4203-9ec9-a5f19ea75da2",
+        "PackageVersion": "7.8.0",
+        "Name": "MLTextSimilarity"
+      },
+      {
+        "UId": "8d4fe8f9-ddad-4eb8-9710-fd1d8fba5c82",
+        "PackageVersion": "7.6.0",
+        "Name": "MarketingSalesOmniService"
+      },
+      {
+        "UId": "90cfe1be-635b-4ea1-8558-c0bb5ba4ee86",
+        "PackageVersion": "7.8.0",
+        "Name": "Calendar"
+      },
+      {
+        "UId": "90ef497e-6e18-440d-b80e-d28f2f133509",
+        "PackageVersion": "7.8.0",
+        "Name": "ESN"
+      },
+      {
+        "UId": "90f7bc4e-bfce-44f6-99ce-41d02274d4f5",
+        "PackageVersion": "7.8.0",
+        "Name": "OAuth20Integration"
+      },
+      {
+        "UId": "916b2f81-4cb4-41b6-92e1-a3ea6fb4e7f7",
+        "PackageVersion": "7.8.0",
+        "Name": "VisaNotification"
+      },
+      {
+        "UId": "918abdf5-9fbf-4cdb-ba2d-beb7a7c3c1af",
+        "PackageVersion": "7.8.0",
+        "Name": "OpportunityInvoice"
+      },
+      {
+        "UId": "926d8678-32f2-4b39-bcd1-fcc5382accbb",
+        "PackageVersion": "7.8.0",
+        "Name": "Enrichment"
+      },
+      {
+        "UId": "92fdd5fc-50d9-43e1-b3ab-8bcbc1d7b467",
+        "PackageVersion": "7.7.0",
+        "Name": "BPMS_ENU"
+      },
+      {
+        "UId": "9310225d-1ff8-45f2-9f34-9faf094d635a",
+        "PackageVersion": "7.8.0",
+        "Name": "Timeline"
+      },
+      {
+        "UId": "9349cc70-f6f3-4751-8414-c10a1e5ba62a",
+        "PackageVersion": "7.8.0",
+        "Name": "ExternalAccess"
+      },
+      {
+        "UId": "9494dcf4-12a2-4999-9d31-087106a5399e",
+        "PackageVersion": "7.8.0",
+        "Name": "DocumentInOpportunity"
+      },
+      {
+        "UId": "9863eb91-0a43-43db-9eaf-a91b1fc32e56",
+        "PackageVersion": "7.8.0",
+        "Name": "SsoSettings",
+        "Type": 1
+      },
+      {
+        "UId": "99707b27-fb9d-4a8d-a9ce-313a68e7423f",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceEnterpriseSoftkey"
+      },
+      {
+        "UId": "99e69b3f-057b-4163-9247-fdd98287561f",
+        "PackageVersion": "7.8.0",
+        "Name": "Managers"
+      },
+      {
+        "UId": "9ab66d86-85ec-440f-a962-dbab7533c921",
+        "PackageVersion": "7.8.0",
+        "Name": "DynamicContent"
+      },
+      {
+        "UId": "9b5fa665-a941-91b5-209d-80dcb6015523",
+        "PackageVersion": "7.8.0",
+        "Name": "SocialLeadGen"
+      },
+      {
+        "UId": "9bfe909c-0232-477a-a09e-2da114404c7a",
+        "PackageVersion": "7.8.0",
+        "Name": "PortalITILService"
+      },
+      {
+        "UId": "9d3e9a5a-4f41-4914-9d13-234a68da2aae",
+        "PackageVersion": "7.8.0",
+        "Name": "Specification"
+      },
+      {
+        "UId": "9dcadb21-84b9-478a-b8f5-05f1208e874a",
+        "PackageVersion": "7.8.0",
+        "Name": "ExchangeListener"
+      },
+      {
+        "UId": "9e46f14d-4cea-4d67-987a-e74ae0330c25",
+        "PackageVersion": "7.8.0",
+        "Name": "OAuth20"
+      },
+      {
+        "UId": "9fa04b54-93d6-cb1c-5c0c-4121c5f72c91",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtPortal"
+      },
+      {
+        "UId": "9ff51efe-8036-45bb-968f-fb10ccef9c10",
+        "PackageVersion": "7.8.0",
+        "Name": "PRMPortal"
+      },
+      {
+        "UId": "a098811e-2305-05ca-3ad1-39a8207d0f15",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtMarketingInC360",
+        "Type": 1
+      },
+      {
+        "UId": "a09b5b3e-2464-ecbe-9993-0cd15f7efc80",
+        "PackageVersion": "7.8.0",
+        "Name": "XSSProtection",
+        "Type": 1
+      },
+      {
+        "UId": "a17aca5a-e9c2-4c5b-a385-df9a3c0837e6",
+        "PackageVersion": "7.8.0",
+        "Name": "OSM"
+      },
+      {
+        "UId": "a17d52e6-97ab-6f7f-17aa-f0e197e488ea",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtUIv2"
+      },
+      {
+        "UId": "a3d14229-09c2-1028-012a-f5f66f934143",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtDesignerTools"
+      },
+      {
+        "UId": "a5a348dd-9124-4571-8072-06d3c0f3aa94",
+        "PackageVersion": "7.8.0",
+        "Name": "PortalCustomerService"
+      },
+      {
+        "UId": "a5ae219e-4519-4a0e-88b1-a172f834baa5",
+        "PackageVersion": "7.8.0",
+        "Name": "TaskMessagePublisher"
+      },
+      {
+        "UId": "a613d152-0fec-4a58-9f9e-df4b7244f72c",
+        "PackageVersion": "7.8.0",
+        "Name": "JunkFilter"
+      },
+      {
+        "UId": "a65f88a0-33d8-4d2a-853c-55a6cf80bcbe",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtLiveEditing"
+      },
+      {
+        "UId": "a7d9c356-450c-46d7-bc85-72dca4e280ba",
+        "PackageVersion": "7.8.0",
+        "Name": "NUI"
+      },
+      {
+        "UId": "a8e51f21-207a-4f9c-b838-eac63f1669b5",
+        "PackageVersion": "7.8.0",
+        "Name": "Tracking"
+      },
+      {
+        "UId": "ab43c9f3-8d3c-0d2d-3b57-35f135a10a74",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCampaignInC360",
+        "Type": 1
+      },
+      {
+        "UId": "ac31baee-da21-4a6a-8206-cc9cad5b9385",
+        "PackageVersion": "7.8.0",
+        "Name": "CoreForecast"
+      },
+      {
+        "UId": "ae73ba70-bd5e-4c4b-9977-df0e3e782102",
+        "PackageVersion": "7.8.0",
+        "Name": "GlobalSearch"
+      },
+      {
+        "UId": "ae8519c2-2aac-4a00-aa61-b0ffaac99ea3",
+        "PackageVersion": "7.8.0",
+        "Name": "ActionsDashboard"
+      },
+      {
+        "UId": "b1eb54a2-9569-45de-81cb-a24654c09264",
+        "PackageVersion": "7.8.0",
+        "Name": "DcmLibrary"
+      },
+      {
+        "UId": "b2efab6b-0c3b-4089-ac40-7b9f9fa87e59",
+        "PackageVersion": "7.8.0",
+        "Name": "Passport"
+      },
+      {
+        "UId": "b3453ab1-aec4-40a6-87ef-ffe4ef3ae4ee",
+        "PackageVersion": "7.8.0",
+        "Name": "FacebookIntegration"
+      },
+      {
+        "UId": "b349edb3-5bd4-47cf-8269-e9d4145aa896",
+        "PackageVersion": "7.8.0",
+        "Name": "WordReporting"
+      },
+      {
+        "UId": "b3d1f533-9b59-4503-9686-227e48f1030e",
+        "PackageVersion": "7.8.0",
+        "Name": "InvoiceMobile"
+      },
+      {
+        "UId": "b5967e5d-641c-4d1f-ad1d-a02f69fcc776",
+        "PackageVersion": "7.8.0",
+        "Name": "Deduplication"
+      },
+      {
+        "UId": "b744c875-151e-4d37-840b-74e6435a2a1a",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceEnterpriseMobile"
+      },
+      {
+        "UId": "b8b21e51-9f46-5ec8-7c53-32cbd8b5c6c1",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCasesInC360",
+        "Type": 1
+      },
+      {
+        "UId": "b8bc60f4-5aef-4760-bd1b-57d7cbc48143",
+        "PackageVersion": "7.8.0",
+        "Name": "Base_ENU"
+      },
+      {
+        "UId": "b8c22230-2173-426f-959e-be736709a63f",
+        "PackageVersion": "7.8.0",
+        "Name": "Exchange"
+      },
+      {
+        "UId": "b8cdfd48-aed0-412f-89a1-5b3e8450cccc",
+        "PackageVersion": "7.8.0",
+        "Name": "Release"
+      },
+      {
+        "UId": "b8d3cee8-bfe1-4989-8461-886fff0dee74",
+        "PackageVersion": "7.8.0",
+        "Name": "RelationshipDesigner"
+      },
+      {
+        "UId": "b8e3670d-40ce-4674-8aa5-3d4805a5932d",
+        "PackageVersion": "7.8.0",
+        "Name": "OrderInSales"
+      },
+      {
+        "UId": "bab1ebf8-7634-4906-8f23-49bcf30552e7",
+        "PackageVersion": "7.8.0",
+        "Name": "CTIProcessActions"
+      },
+      {
+        "UId": "baeedcdf-86dd-4673-a594-8d5648d5aace",
+        "PackageVersion": "7.8.0",
+        "Name": "ContractInInvoice"
+      },
+      {
+        "UId": "bb1e143e-f3ee-4316-9450-851ddd02d999",
+        "PackageVersion": "7.8.0",
+        "Name": "LDAP"
+      },
+      {
+        "UId": "bda2916d-1b8a-1fa2-ab37-43798c48146f",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtSLMITILService"
+      },
+      {
+        "UId": "be841e0c-cb39-4f7c-96f7-2f1b50d8b5ee",
+        "PackageVersion": "7.8.0",
+        "Name": "PRMInvoice"
+      },
+      {
+        "UId": "bf235681-3101-4477-b9c7-bbf4a31205be",
+        "PackageVersion": "7.8.0",
+        "Name": "Core"
+      },
+      {
+        "UId": "bf9afc07-660b-48ce-8666-8ff8365be907",
+        "PackageVersion": "7.8.0",
+        "Name": "DocumentInProject"
+      },
+      {
+        "UId": "bf9c447b-e2a3-4a79-9d22-9b4d344be89e",
+        "PackageVersion": "7.8.0",
+        "Name": "PortalMessageFeed"
+      },
+      {
+        "UId": "c2518826-60a9-40d4-bd14-6add9d35d320",
+        "PackageVersion": "7.8.0",
+        "Name": "DesignerTools"
+      },
+      {
+        "UId": "c3748e81-246e-4293-85a1-d88d3ab9ff4d",
+        "PackageVersion": "7.8.0",
+        "Name": "Wizards"
+      },
+      {
+        "UId": "c3887e9c-ceb4-497a-8efb-e174aa1bf5c4",
+        "PackageVersion": "7.8.0",
+        "Name": "SLM"
+      },
+      {
+        "UId": "c41abb91-0ae6-49ac-9511-af5671f4ed69",
+        "PackageVersion": "7.8.0",
+        "Name": "WebServiceUserTask"
+      },
+      {
+        "UId": "c53df329-0dce-9c48-0e67-6a557846ba3d",
+        "PackageVersion": "7.8.0",
+        "Name": "LeadManagement"
+      },
+      {
+        "UId": "c6c3f6c4-2d46-41ea-a8dd-6513889b2185",
+        "PackageVersion": "7.8.0",
+        "Name": "Mailing"
+      },
+      {
+        "UId": "c7f807c8-89d0-472f-9c68-78a10ca88190",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnterprise"
+      },
+      {
+        "UId": "ca17ff09-8a8b-4af9-8a2a-ff4c0983ba30",
+        "PackageVersion": "7.8.0",
+        "Name": "Project"
+      },
+      {
+        "UId": "ca4dabb6-35a3-4cf3-8e6f-c4abe3abc20b",
+        "PackageVersion": "7.8.0",
+        "Name": "MktgActivitiesPortal"
+      },
+      {
+        "UId": "ca913451-6567-42ea-a53d-63b841c80e2b",
+        "PackageVersion": "7.8.0",
+        "Name": "MLScoring"
+      },
+      {
+        "UId": "cb1fc096-cd82-0672-62f1-0668a5a53771",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtManagers7x"
+      },
+      {
+        "UId": "cb733171-9867-1afe-c1af-c7457bcd8be0",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtEngagementInC360",
+        "Type": 1
+      },
+      {
+        "UId": "cbc7d8fb-0ab5-42a1-bc8c-60da507c44c4",
+        "PackageVersion": "7.8.0",
+        "Name": "ServiceEnterpriseDefSettings"
+      },
+      {
+        "UId": "cda68d34-0d3b-470f-d64e-ee0a923a7139",
+        "PackageVersion": "7.8.0",
+        "Name": "Finesse",
+        "Type": 1
+      },
+      {
+        "UId": "cdb56ffb-07c3-4603-9014-7c383fad59c2",
+        "PackageVersion": "7.8.0",
+        "Name": "EmailsSearch"
+      },
+      {
+        "UId": "d0630866-24de-d11c-0a77-17914caefe54",
+        "PackageVersion": "7.8.0",
+        "Name": "WebhookService"
+      },
+      {
+        "UId": "d23f7020-5106-7e4c-cb76-76eb2b38e7e7",
+        "PackageVersion": "7.8.0",
+        "Name": "OpenIdAuth",
+        "Type": 1
+      },
+      {
+        "UId": "d3fb7050-1dbb-4737-acb0-5bf0c6ac2d30",
+        "PackageVersion": "7.8.0",
+        "Name": "MarketingCampaignMobile"
+      },
+      {
+        "UId": "d429c9dd-a910-4165-aa66-0cd1f3693649",
+        "PackageVersion": "7.8.0",
+        "Name": "EmailMessage"
+      },
+      {
+        "UId": "d6330a93-b88b-4e78-8576-55accfd9054f",
+        "PackageVersion": "7.8.0",
+        "Name": "CloudEmailService"
+      },
+      {
+        "UId": "d6d45b89-09e8-468a-ae9d-3db6774b82a2",
+        "PackageVersion": "7.8.0",
+        "Name": "MessagePublisher"
+      },
+      {
+        "UId": "d711d77f-6366-44c6-aff5-492d2f8021ba",
+        "PackageVersion": "7.8.0",
+        "Name": "DocumentInContract"
+      },
+      {
+        "UId": "d732f944-06eb-4afc-b608-aef15791f70c",
+        "PackageVersion": "7.4.0.0",
+        "Name": "DocumentInInvoice"
+      },
+      {
+        "UId": "d7559847-f38e-410c-baee-6f43bbe80d42",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterpriseSoftkey_ENU"
+      },
+      {
+        "UId": "d8f3315b-0e23-4f20-a2e6-483c4aa8ca56",
+        "PackageVersion": "7.8.0",
+        "Name": "CMDB"
+      },
+      {
+        "UId": "d8f504c3-f4ca-46ea-bf1f-b301498f8017",
+        "PackageVersion": "7.8.0",
+        "Name": "CampaignElements.UI"
+      },
+      {
+        "UId": "d91a721f-12f7-49f1-8ccc-84e7ddcd7276",
+        "PackageVersion": "7.8.0",
+        "Name": "CampaignElements"
+      },
+      {
+        "UId": "da38393b-cb46-4fa6-92b9-e4358bcf9f48",
+        "PackageVersion": "7.8.0",
+        "Name": "MkpNotifications"
+      },
+      {
+        "UId": "dbd30bbd-d48a-e32a-4b7b-79049bc56ee6",
+        "PackageVersion": "7.8.0",
+        "Name": "LandingiIntegration"
+      },
+      {
+        "UId": "dc36f898-47d7-4597-865d-0f1bcab7bf9c",
+        "PackageVersion": "7.8.0",
+        "Name": "SocialNetworkIntegration"
+      },
+      {
+        "UId": "dc67ca89-0f24-44fc-8a0d-53169b1dec01",
+        "PackageVersion": "7.8.0",
+        "Name": "WebOrderForm"
+      },
+      {
+        "UId": "df07531c-770a-d4c0-4b8f-d97659a810f6",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtOpportunityInC360",
+        "Type": 1
+      },
+      {
+        "UId": "e14dcfb1-e53c-4439-a876-af7f97083ed9",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise"
+      },
+      {
+        "UId": "e16ad5af-f2b8-4128-ab85-84768b536fe3",
+        "PackageVersion": "7.8.0",
+        "Name": "OperatorCustomerEngagementCenter"
+      },
+      {
+        "UId": "e4d60e92-f11e-472c-98fc-0651d5891aba",
+        "PackageVersion": "7.8.0",
+        "Name": "MLangContent"
+      },
+      {
+        "UId": "e7052dfc-0e33-c838-b00e-78ddcc004690",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtWizards7x"
+      },
+      {
+        "UId": "e7a2c20a-9591-484e-bf77-5953f2dc592e",
+        "PackageVersion": "7.8.0",
+        "Name": "Invoice"
+      },
+      {
+        "UId": "e8689230-27b1-4f48-a395-adb81cbc07b3",
+        "PackageVersion": "7.8.0",
+        "Name": "MLLeadScoring"
+      },
+      {
+        "UId": "e91fc624-f834-474b-a0ac-875f8b399332",
+        "PackageVersion": "7.8.0",
+        "Name": "MLCaseClassification"
+      },
+      {
+        "UId": "e9ff50e9-84e3-488b-aac4-68e7b61f9416",
+        "PackageVersion": "7.8.0",
+        "Name": "MLOpportunityScoring"
+      },
+      {
+        "UId": "ea86d7c2-a1c2-475a-af53-28f8d7e1e7a8",
+        "PackageVersion": "7.8.0",
+        "Name": "ContractInOrder"
+      },
+      {
+        "UId": "eb74c841-b4d1-4bf3-a489-300c0a0f7133",
+        "PackageVersion": "7.8.0",
+        "Name": "KnowledgeBase"
+      },
+      {
+        "UId": "ec658e0b-8f59-4907-995e-b8f2a97c235d",
+        "PackageVersion": "7.8.0",
+        "Name": "PortalMessagePublisher"
+      },
+      {
+        "UId": "eecb832f-8a1b-4436-b726-1fb17d010e12",
+        "PackageVersion": "7.8.0",
+        "Name": "SocialMessage"
+      },
+      {
+        "UId": "eeed3091-51d9-472d-be26-eca02cd3a7d1",
+        "PackageVersion": "7.8.0",
+        "Name": "Reports"
+      },
+      {
+        "UId": "ef11e995-ba92-40e9-9077-1a6fee8d4c35",
+        "PackageVersion": "7.8.0",
+        "Name": "Order"
+      },
+      {
+        "UId": "ef306273-a4ba-46d8-92a8-4cd424a3c932",
+        "PackageVersion": "7.8.0",
+        "Name": "EmailMessageMining"
+      },
+      {
+        "UId": "f0a4df72-c82f-425f-8080-82c120139634",
+        "PackageVersion": "7.8.0",
+        "Name": "Document"
+      },
+      {
+        "UId": "f0fa2639-5fd1-6e6b-12ee-665460964056",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtSLM7x"
+      },
+      {
+        "UId": "f129f46d-d9a7-1aac-bc40-5626f9c428da",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtSLMITILService7x"
+      },
+      {
+        "UId": "f665ef60-4483-4af1-acec-1b4a85d79e1c",
+        "PackageVersion": "7.8.0",
+        "Name": "Workplace"
+      },
+      {
+        "UId": "f6bf43ee-73e9-4960-b62e-25a9cf1673ad",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesDocument"
+      },
+      {
+        "UId": "f7fa275a-2b5a-43d8-89cf-b0063b3a7ee9",
+        "PackageVersion": "7.8.0",
+        "Name": "ContentBuilder"
+      },
+      {
+        "UId": "f96c8402-9614-48d5-988e-1f34fea20081",
+        "PackageVersion": "7.8.0",
+        "Name": "Campaigns"
+      },
+      {
+        "UId": "f9a361ad-8965-4c55-922a-d13d1bac8c39",
+        "PackageVersion": "7.8.0",
+        "Name": "OmnichannelMessaging"
+      },
+      {
+        "UId": "fbf9dd14-92d2-4e35-b193-e69ced12ae44",
+        "PackageVersion": "7.8.0",
+        "Name": "PivotTable"
+      },
+      {
+        "UId": "fe796806-0eeb-4518-bf7e-c0e325851a24",
+        "PackageVersion": "7.8.0",
+        "Name": "LocalMessage"
+      },
+      {
+        "UId": "ff2cadfe-f4c2-06cd-930f-1401ae848c21",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtSLM"
+      },
+      {
+        "UId": "ff9d3ada-7d78-4b56-b720-6ecb251a1dd4",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesTeamData"
+      }
+    ]
+  }
+}
