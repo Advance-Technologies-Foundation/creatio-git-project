@@ -2,7 +2,7 @@
 <Resources Culture="it-IT">
 	<Group Type="String">
 		<Items>
-			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed ESN" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Feed" />
 			<Item Name="LocalizableStrings.PlaybookDetailDetailCaptionOnPage.Value" Value="Manutenzione" />
 			<Item Name="LocalizableStrings.PlaybookTabCaption.Value" Value="Manutenzione" />
 			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Segui il feed" />

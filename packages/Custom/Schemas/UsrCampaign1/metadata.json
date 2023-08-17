@@ -1,0 +1,72 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "CampaignSchemaManager",
+      "UId": "444f10a6-fc6b-4c71-8f11-9da1cceb8a0c",
+      "A2": "UsrCampaign1",
+      "A5": "A8B3831C-B69A-4C8C-8CBE-313E4F2379E6",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "C076C5DF-7369-454C-9412-A2F4E1978340",
+      "B8": "7.10.3.1168",
+      "FJ1": [],
+      "IJ3": false,
+      "BK8": "371c5d61-06ed-4bda-a905-c00ea6d19551",
+      "EntitySchemaUId": "1f9bb71a-eb9c-4220-a40e-9b623eacfec8",
+      "BK15": [],
+      "BK37": {
+        "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+        "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+        "A2": "NotificationCaption",
+        "A3": "444f10a6-fc6b-4c71-8f11-9da1cceb8a0c",
+        "A4": "444f10a6-fc6b-4c71-8f11-9da1cceb8a0c",
+        "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+        "L8": {
+          "GS1": 3,
+          "GS2": "[#[PropertyValue:Caption]#]"
+        }
+      },
+      "FlowElements": [
+        {
+          "BL1": "Terrasoft.Configuration.MarketingEmailElement, Terrasoft.Configuration",
+          "UId": "796f9703-9fa8-4366-b48a-04790b072444",
+          "A2": "MarketingEmail2",
+          "A3": "444f10a6-fc6b-4c71-8f11-9da1cceb8a0c",
+          "A4": "444f10a6-fc6b-4c71-8f11-9da1cceb8a0c",
+          "A5": "C076C5DF-7369-454C-9412-A2F4E1978340",
+          "Position": "271;150",
+          "Size": "69;55",
+          "MarketingEmailId": "8916b8af-7be4-4099-af64-236931102625"
+        },
+        {
+          "BL1": "Terrasoft.Configuration.CampaignLandingElement, Terrasoft.Configuration",
+          "UId": "b4716871-b01b-4df8-9d3b-34d4a7d94c3b",
+          "A2": "CampaignLanding1",
+          "A3": "444f10a6-fc6b-4c71-8f11-9da1cceb8a0c",
+          "A4": "444f10a6-fc6b-4c71-8f11-9da1cceb8a0c",
+          "A5": "C076C5DF-7369-454C-9412-A2F4E1978340",
+          "Position": "20;150",
+          "Size": "55;55",
+          "LandingId": "6c24a5e4-a08c-41c5-a868-19b49197a152"
+        },
+        {
+          "BL1": "Terrasoft.Configuration.SequenceFlowElement, Terrasoft.Configuration",
+          "UId": "8a6e9210-0d5b-4905-b895-d518322e8948",
+          "A2": "CampaignSequenceFlow1",
+          "A3": "444f10a6-fc6b-4c71-8f11-9da1cceb8a0c",
+          "A4": "444f10a6-fc6b-4c71-8f11-9da1cceb8a0c",
+          "A5": "C076C5DF-7369-454C-9412-A2F4E1978340",
+          "SourceRefUId": "b4716871-b01b-4df8-9d3b-34d4a7d94c3b",
+          "TargetRefUId": "796f9703-9fa8-4366-b48a-04790b072444",
+          "StrokeColor": "FF939598",
+          "VisualType": 1,
+          "SourceSequenceFlowPointLocalPosition": "1;0",
+          "TargetSequenceFlowPointLocalPosition": "-1;0",
+          "Priority": -1
+        }
+      ],
+      "EntityId": "d774d8e9-95bc-4596-b309-6576d5e39aeb"
+    }
+  }
+}

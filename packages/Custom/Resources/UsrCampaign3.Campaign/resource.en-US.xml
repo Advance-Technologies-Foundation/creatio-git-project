@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.CampaignStartSignal1.Caption" Value="Networking Day registration" />
+			<Item Name="BaseElements.EmailConditionalTransition1.Caption" Value="Visit the website" />
+			<Item Name="BaseElements.EmailConditionalTransition3.Caption" Value="Lead stage = Handoff to sales" />
+			<Item Name="BaseElements.EmailConditionalTransition4.Caption" Value="Follow the link" />
+			<Item Name="BaseElements.ExitFromCampaign1.Caption" Value="Reached the goal" />
+			<Item Name="BaseElements.ExitFromCampaign2.Caption" Value="Unsubscribed" />
+			<Item Name="BaseElements.MarketingEmail1.Caption" Value="Follow-up" />
+			<Item Name="BaseElements.MarketingEmail2.Caption" Value="Information email" />
+			<Item Name="BaseElements.MarketingEmail3.Caption" Value="News digest" />
+			<Item Name="Caption" Value="Nurturing a need: website registration follow-up" />
+		</Items>
+	</Group>
+</Resources>

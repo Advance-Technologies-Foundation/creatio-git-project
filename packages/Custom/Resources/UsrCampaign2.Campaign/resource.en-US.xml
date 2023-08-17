@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddAudience1.Caption" Value="Interest suspected" />
+			<Item Name="BaseElements.EmailConditionalTransition1.Caption" Value="Opened" />
+			<Item Name="BaseElements.EmailConditionalTransition2.Caption" Value="Didn't opened" />
+			<Item Name="BaseElements.EmailConditionalTransition3.Caption" Value="Registered" />
+			<Item Name="BaseElements.EmailConditionalTransition4.Caption" Value="Not registered" />
+			<Item Name="BaseElements.ExitFromCampaign1.Caption" Value="Registered for event" />
+			<Item Name="BaseElements.ExitFromCampaign2.Caption" Value="Exited" />
+			<Item Name="BaseElements.MarketingEmail1.Caption" Value="Invite" />
+			<Item Name="BaseElements.MarketingEmail2.Caption" Value="Reminding" />
+			<Item Name="BaseElements.MarketingEmail3.Caption" Value="Reminding for unregistered" />
+			<Item Name="Caption" Value="Trigger campaign: capturing for the event" />
+		</Items>
+	</Group>
+</Resources>

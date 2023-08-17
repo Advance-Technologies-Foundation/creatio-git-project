@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Faqe" />
+			<Item Name="LocalizableStrings.PlaybookDetailDetailCaptionOnPage.Value" Value="Udhëzues" />
+			<Item Name="LocalizableStrings.PlaybookTabCaption.Value" Value="Udhëzues" />
+			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Ndiq faqen" />
+			<Item Name="LocalizableStrings.SubscribedInformationDialog.Value" Value="Ju jeni tani duke ndjekur faqen: {0}" />
+			<Item Name="LocalizableStrings.TimelineTabCaption.Value" Value="Kohështrirja" />
+			<Item Name="LocalizableStrings.UnsubscribeCaption.Value" Value="Ndalo së ndjekuri faqen" />
+			<Item Name="LocalizableStrings.UnsubscribedInformationDialog.Value" Value="Ke ndaluar së ndjekuri faqen: {0}" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddAudience1.Caption" Value="Customers/Partners" />
+			<Item Name="BaseElements.CampaignConditionalSequenceFlow1.Caption" Value="Customers" />
+			<Item Name="BaseElements.CampaignConditionalSequenceFlow2.Caption" Value="Partners" />
+			<Item Name="BaseElements.CampaignEvent1.Caption" Value="Customer Forum" />
+			<Item Name="BaseElements.CampaignLanding1.Caption" Value="Networking Day registration" />
+			<Item Name="BaseElements.EmailConditionalTransition10.Caption" Value="Satisfied" />
+			<Item Name="BaseElements.EmailConditionalTransition3.Caption" Value="Follow the link" />
+			<Item Name="BaseElements.EmailConditionalTransition4.Caption" Value="Follow the link" />
+			<Item Name="BaseElements.EmailConditionalTransition8.Caption" Value="Satisfied" />
+			<Item Name="BaseElements.EmailConditionalTransition9.Caption" Value="Satisfied" />
+			<Item Name="BaseElements.EventConditionalTransition11.Caption" Value="Participant" />
+			<Item Name="BaseElements.ExitFromCampaign1.Caption" Value="Reached the goal" />
+			<Item Name="BaseElements.ExitFromCampaign2.Caption" Value="Unsubscribed" />
+			<Item Name="BaseElements.LandingConditionalTransition5.Caption" Value="Registration form submitted" />
+			<Item Name="BaseElements.LandingConditionalTransition6.Caption" Value="3 days, form not submitted" />
+			<Item Name="BaseElements.LandingConditionalTransition7.Caption" Value="10 days, regardless of result" />
+			<Item Name="BaseElements.MarketingEmail1.Caption" Value="Customers" />
+			<Item Name="BaseElements.MarketingEmail2.Caption" Value="Partners" />
+			<Item Name="BaseElements.MarketingEmail3.Caption" Value="Thanks for registering on Network CRM Day" />
+			<Item Name="BaseElements.MarketingEmail4.Caption" Value="Paul Greenberg’s presentation at Networking Day" />
+			<Item Name="BaseElements.MarketingEmail5.Caption" Value="Networking Day reminder" />
+			<Item Name="Caption" Value="Networking Day" />
+			<Item Name="NotificationCaption.Caption" Value="Process instance caption" />
+			<Item Name="NotificationCaption.DisplayValue" Value="[#Process name#]" />
+		</Items>
+	</Group>
+</Resources>

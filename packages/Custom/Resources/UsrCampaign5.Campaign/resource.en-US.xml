@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddAudience1.Caption" Value="Participated in event" />
+			<Item Name="BaseElements.EmailConditionalTransition1.Caption" Value="Interested. Email opened" />
+			<Item Name="BaseElements.EmailConditionalTransition2.Caption" Value="Interested. Link opened" />
+			<Item Name="BaseElements.EmailConditionalTransition3.Caption" Value="Unsibscription" />
+			<Item Name="BaseElements.EmailConditionalTransition4.Caption" Value="Registration" />
+			<Item Name="BaseElements.ExitFromCampaign1.Caption" Value="Participated" />
+			<Item Name="BaseElements.ExitFromCampaign2.Caption" Value="Unsubscribed" />
+			<Item Name="BaseElements.MarketingEmail1.Caption" Value="Invitation" />
+			<Item Name="BaseElements.MarketingEmail2.Caption" Value="Registration information" />
+			<Item Name="BaseElements.MarketingEmail3.Caption" Value="Event reminding" />
+			<Item Name="BaseElements.MarketingEmail4.Caption" Value="Return..." />
+			<Item Name="Caption" Value="Capturing audience for webinar: «bpm`online marketing: several approaches on how to nurture your customer's leads» " />
+		</Items>
+	</Group>
+</Resources>

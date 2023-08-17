@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.AddAudience1.Caption" Value="Interested" />
+			<Item Name="BaseElements.EmailConditionalTransition1.Caption" Value="Unsubscribed" />
+			<Item Name="BaseElements.EmailConditionalTransition2.Caption" Value="Participated" />
+			<Item Name="BaseElements.ExitFromCampaign1.Caption" Value="Participated" />
+			<Item Name="BaseElements.ExitFromCampaign2.Caption" Value="Exited" />
+			<Item Name="BaseElements.MarketingEmail1.Caption" Value="Webinar invitation" />
+			<Item Name="BaseElements.MarketingEmail2.Caption" Value="Registration confirmation. Agenda" />
+			<Item Name="BaseElements.MarketingEmail3.Caption" Value="Webinar results survey" />
+			<Item Name="BaseElements.MarketingEmail4.Caption" Value="Webinar materials" />
+			<Item Name="Caption" Value="Nurturing a need: capturing for the event" />
+		</Items>
+	</Group>
+</Resources>

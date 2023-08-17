@@ -2,27 +2,13 @@
   "Descriptor": {
     "UId": "5141a165-e7be-445a-91aa-cf4eb26df3f6",
     "Name": "SysDetail_Playbook",
-    "ModifiedOnUtc": "\/Date(1681849404000)\/",
+    "ModifiedOnUtc": "\/Date(1690381414000)\/",
     "InstallType": 0,
     "Schema": {
       "UId": "363c2008-c733-407d-9b01-9e6a7cd9a77a",
       "Name": "SysDetail"
     },
     "Columns": [
-      {
-        "ColumnUId": "631e7238-2751-4a21-b6d6-9f1ac0c84f95",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "EntitySchemaUId",
-        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
-      },
-      {
-        "ColumnUId": "8585929c-62ae-4673-ae8d-bb37f87e5144",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "DetailSchemaUId",
-        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
-      },
       {
         "ColumnUId": "49ad8ee2-65a6-4cdd-b8f6-85c2f10a54dc",
         "IsForceUpdate": false,
@@ -35,6 +21,20 @@
         "IsForceUpdate": false,
         "IsKey": true,
         "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "631e7238-2751-4a21-b6d6-9f1ac0c84f95",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "EntitySchemaUId",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "8585929c-62ae-4673-ae8d-bb37f87e5144",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "DetailSchemaUId",
         "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
       }
     ]

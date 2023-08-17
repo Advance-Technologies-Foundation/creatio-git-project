@@ -1,0 +1,219 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "CampaignSchemaManager",
+      "UId": "f24397ba-73c7-4bfe-8947-f56b21246997",
+      "A2": "UsrCampaign4",
+      "A5": "A8B3831C-B69A-4C8C-8CBE-313E4F2379E6",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "C076C5DF-7369-454C-9412-A2F4E1978340",
+      "B8": "7.10.3.1168",
+      "FJ1": [],
+      "IJ3": false,
+      "BK8": "371c5d61-06ed-4bda-a905-c00ea6d19551",
+      "EntitySchemaUId": "1f9bb71a-eb9c-4220-a40e-9b623eacfec8",
+      "BK15": [],
+      "BK37": {
+        "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+        "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+        "A2": "NotificationCaption",
+        "A3": "f24397ba-73c7-4bfe-8947-f56b21246997",
+        "A4": "f24397ba-73c7-4bfe-8947-f56b21246997",
+        "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+        "L8": {
+          "GS1": 3,
+          "GS2": "[#[PropertyValue:Caption]#]"
+        }
+      },
+      "FlowElements": [
+        {
+          "BL1": "Terrasoft.Configuration.AddCampaignParticipantElement, Terrasoft.Configuration",
+          "UId": "02ae270e-3f0f-442e-89a9-3b24b0716e1e",
+          "A2": "AddAudience1",
+          "A3": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A4": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A5": "C076C5DF-7369-454C-9412-A2F4E1978340",
+          "Position": "56;100",
+          "Size": "55;55",
+          "FolderId": "139d2617-c970-460f-b80c-1413ede54fc5"
+        },
+        {
+          "BL1": "Terrasoft.Configuration.MarketingEmailElement, Terrasoft.Configuration",
+          "UId": "f407191c-6c6f-408b-a50a-745fcf929543",
+          "A2": "MarketingEmail1",
+          "A3": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A4": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A5": "C076C5DF-7369-454C-9412-A2F4E1978340",
+          "Position": "208;100",
+          "Size": "69;55",
+          "MarketingEmailId": "c071dae1-6522-4139-9542-93406926bce3"
+        },
+        {
+          "BL1": "Terrasoft.Configuration.MarketingEmailElement, Terrasoft.Configuration",
+          "UId": "30a46826-57e4-4da1-9db1-b4afcc604d9f",
+          "A2": "MarketingEmail2",
+          "A3": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A4": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A5": "C076C5DF-7369-454C-9412-A2F4E1978340",
+          "Position": "375;100",
+          "Size": "69;55",
+          "MarketingEmailId": "916e0d28-5060-4581-b04f-3be01a7f22dc"
+        },
+        {
+          "BL1": "Terrasoft.Configuration.MarketingEmailElement, Terrasoft.Configuration",
+          "UId": "ea0026db-d2f5-4f7b-8928-1ab7a6bc1c32",
+          "A2": "MarketingEmail3",
+          "A3": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A4": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A5": "C076C5DF-7369-454C-9412-A2F4E1978340",
+          "Position": "518;208",
+          "Size": "69;55",
+          "MarketingEmailId": "4879699a-b50f-4f7b-9b45-d25059ca129e"
+        },
+        {
+          "BL1": "Terrasoft.Configuration.MarketingEmailElement, Terrasoft.Configuration",
+          "UId": "f9f1ff60-f31b-4313-b945-e5195ede25c4",
+          "A2": "MarketingEmail4",
+          "A3": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A4": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A5": "C076C5DF-7369-454C-9412-A2F4E1978340",
+          "Position": "658;100",
+          "Size": "69;55",
+          "MarketingEmailId": "d13ce7e9-87b3-42dc-9ce0-ece35e0fdb79"
+        },
+        {
+          "BL1": "Terrasoft.Configuration.ExitFromCampaignElement, Terrasoft.Configuration",
+          "UId": "81bddbae-9ba5-4ca0-ae8f-8d4ed40bc6ae",
+          "A2": "ExitFromCampaign1",
+          "A3": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A4": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A5": "C076C5DF-7369-454C-9412-A2F4E1978340",
+          "Position": "883;100",
+          "Size": "55;55",
+          "FolderId": "ba41fc94-5da3-49f1-b039-13915ac8fa0f",
+          "IsCampaignGoal": true
+        },
+        {
+          "BL1": "Terrasoft.Configuration.ExitFromCampaignElement, Terrasoft.Configuration",
+          "UId": "719bda53-9e2e-422f-99bf-c7b079772d91",
+          "A2": "ExitFromCampaign2",
+          "A3": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A4": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A5": "C076C5DF-7369-454C-9412-A2F4E1978340",
+          "Position": "883;313",
+          "Size": "55;55"
+        },
+        {
+          "BL1": "Terrasoft.Configuration.SequenceFlowElement, Terrasoft.Configuration",
+          "UId": "3859e00d-c1a9-4e03-a6f7-091992ffedcc",
+          "A2": "CampaignSequenceFlow1",
+          "A3": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A4": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A5": "C076C5DF-7369-454C-9412-A2F4E1978340",
+          "SourceRefUId": "02ae270e-3f0f-442e-89a9-3b24b0716e1e",
+          "TargetRefUId": "f407191c-6c6f-408b-a50a-745fcf929543",
+          "StrokeColor": "FF939598",
+          "VisualType": 1,
+          "SourceSequenceFlowPointLocalPosition": "1;0",
+          "TargetSequenceFlowPointLocalPosition": "-1;0",
+          "Priority": -1
+        },
+        {
+          "BL1": "Terrasoft.Configuration.EmailConditionalTransitionElement, Terrasoft.Configuration",
+          "UId": "e58bb7ec-5c70-41f6-b7ab-42c3687c9320",
+          "A2": "EmailConditionalTransition1",
+          "A3": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A4": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A5": "C076C5DF-7369-454C-9412-A2F4E1978340",
+          "SourceRefUId": "f407191c-6c6f-408b-a50a-745fcf929543",
+          "TargetRefUId": "719bda53-9e2e-422f-99bf-c7b079772d91",
+          "FlowType": 2,
+          "StrokeColor": "FF939598",
+          "VisualType": 1,
+          "SourceSequenceFlowPointLocalPosition": "0;-1",
+          "TargetSequenceFlowPointLocalPosition": "-1;0",
+          "PolylinePointPositions": {
+            "Item0": "243;340"
+          },
+          "FilterId": "57d4e47a-0eed-4bc6-abba-c2aca9984800",
+          "StartTime": "2017-09-08 14:33",
+          "HyperlinkId": "[]",
+          "EmailResponseId": "[]"
+        },
+        {
+          "BL1": "Terrasoft.Configuration.EmailConditionalTransitionElement, Terrasoft.Configuration",
+          "UId": "600ada7e-4480-452b-8416-05be666514fb",
+          "A2": "EmailConditionalTransition2",
+          "A3": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A4": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A5": "C076C5DF-7369-454C-9412-A2F4E1978340",
+          "SourceRefUId": "30a46826-57e4-4da1-9db1-b4afcc604d9f",
+          "TargetRefUId": "ea0026db-d2f5-4f7b-8928-1ab7a6bc1c32",
+          "FlowType": 2,
+          "StrokeColor": "FF939598",
+          "VisualType": 1,
+          "SourceSequenceFlowPointLocalPosition": "0;-1",
+          "TargetSequenceFlowPointLocalPosition": "-1;0",
+          "PolylinePointPositions": {
+            "Item0": "410;236"
+          },
+          "FilterId": "9f92e5ad-3c11-4bf9-a8f1-86313f318ae7",
+          "StartTime": "2017-09-08 14:33",
+          "HyperlinkId": "[]",
+          "EmailResponseId": "[]"
+        },
+        {
+          "BL1": "Terrasoft.Configuration.SequenceFlowElement, Terrasoft.Configuration",
+          "UId": "e89e9fbd-8327-4dd5-9824-5456876c0ac1",
+          "A2": "CampaignSequenceFlow2",
+          "A3": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A4": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A5": "C076C5DF-7369-454C-9412-A2F4E1978340",
+          "SourceRefUId": "f407191c-6c6f-408b-a50a-745fcf929543",
+          "TargetRefUId": "30a46826-57e4-4da1-9db1-b4afcc604d9f",
+          "StrokeColor": "FF939598",
+          "VisualType": 1,
+          "SourceSequenceFlowPointLocalPosition": "1;0",
+          "TargetSequenceFlowPointLocalPosition": "-1;0",
+          "Priority": -1
+        },
+        {
+          "BL1": "Terrasoft.Configuration.SequenceFlowElement, Terrasoft.Configuration",
+          "UId": "8f843fbd-d899-48f1-a04f-b4cdc747879b",
+          "A2": "CampaignSequenceFlow3",
+          "A3": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A4": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A5": "C076C5DF-7369-454C-9412-A2F4E1978340",
+          "SourceRefUId": "30a46826-57e4-4da1-9db1-b4afcc604d9f",
+          "TargetRefUId": "f9f1ff60-f31b-4313-b945-e5195ede25c4",
+          "StrokeColor": "FF939598",
+          "VisualType": 1,
+          "SourceSequenceFlowPointLocalPosition": "1;0",
+          "TargetSequenceFlowPointLocalPosition": "-1;0",
+          "Priority": -1
+        },
+        {
+          "BL1": "Terrasoft.Configuration.SequenceFlowElement, Terrasoft.Configuration",
+          "UId": "d434ad3e-ebae-493f-bcac-b34cbfac0915",
+          "A2": "CampaignSequenceFlow4",
+          "A3": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A4": "f24397ba-73c7-4bfe-8947-f56b21246997",
+          "A5": "C076C5DF-7369-454C-9412-A2F4E1978340",
+          "SourceRefUId": "ea0026db-d2f5-4f7b-8928-1ab7a6bc1c32",
+          "TargetRefUId": "f9f1ff60-f31b-4313-b945-e5195ede25c4",
+          "StrokeColor": "FF939598",
+          "VisualType": 1,
+          "SourceSequenceFlowPointLocalPosition": "1;0",
+          "TargetSequenceFlowPointLocalPosition": "0;-1",
+          "Priority": -1,
+          "PolylinePointPositions": {
+            "Item0": "734;267"
+          }
+        }
+      ],
+      "EntityId": "289d75ef-1780-4cdf-9607-611b4075b6b1"
+    }
+  }
+}

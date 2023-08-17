@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="sq-AL">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Udhëzues" />
+			<Item Name="Columns.Case.Caption" Value="Çështja e seksionit" />
+			<Item Name="Columns.Culture.Caption" Value="Kultura" />
+			<Item Name="Columns.KnowledgeBase.Caption" Value="Artikulli i bazës së njohurive" />
+			<Item Name="Columns.StageId.Caption" Value="Faza" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "6c08af1d-365e-4157-bf6b-38bbb921f03f",
+    "Name": "UsrCampaign6",
+    "ModifiedOnUtc": "\/Date(1568804179000)\/",
+    "ManagerName": "CampaignSchemaManager",
+    "Caption": "Networking Day",
+    "DependsOn": []
+  }
+}

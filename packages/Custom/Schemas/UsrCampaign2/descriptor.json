@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "969d32b3-c976-418c-aba0-f5ea3bd3d890",
+    "Name": "UsrCampaign2",
+    "ModifiedOnUtc": "\/Date(1531746025000)\/",
+    "ManagerName": "CampaignSchemaManager",
+    "Caption": "Trigger campaign: capturing for the event",
+    "DependsOn": []
+  }
+}

@@ -10,32 +10,25 @@
     },
     "Columns": [
       {
-        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
-        "IsForceUpdate": false,
-        "IsKey": true,
-        "ColumnName": "Id",
-        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
-      },
-      {
-        "ColumnUId": "c730359e-6048-4afe-ab8a-fe8097a9da16",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "Keywords",
-        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
-      },
-      {
-        "ColumnUId": "fde3d1eb-6629-4a28-9621-daa6c6eb4c1f",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "ViewsCount",
-        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
-      },
-      {
         "ColumnUId": "654d83a5-23a0-4555-8048-eec76cfc8f4b",
         "IsForceUpdate": false,
         "IsKey": false,
         "ColumnName": "Name",
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
+      },
+      {
+        "ColumnUId": "fe374374-3a0f-4b14-9148-8b95e3320249",
+        "IsForceUpdate": true,
+        "IsKey": false,
+        "ColumnName": "Notes",
+        "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
+      },
+      {
+        "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+        "IsForceUpdate": false,
+        "IsKey": true,
+        "ColumnName": "Id",
+        "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
       },
       {
         "ColumnUId": "802d6477-8e01-4286-a563-084a2a4c4ff0",
@@ -45,10 +38,17 @@
         "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
       },
       {
-        "ColumnUId": "fe374374-3a0f-4b14-9148-8b95e3320249",
-        "IsForceUpdate": true,
+        "ColumnUId": "33db271f-4440-457b-a15c-05f6e83ad8a8",
+        "IsForceUpdate": false,
         "IsKey": false,
-        "ColumnName": "Notes",
+        "ColumnName": "Type",
+        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+      },
+      {
+        "ColumnUId": "c730359e-6048-4afe-ab8a-fe8097a9da16",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Keywords",
         "DataTypeValueUId": "c0f04627-4620-4bc0-84e5-9419dc8516b1"
       },
       {
@@ -59,11 +59,11 @@
         "DataTypeValueUId": "325a73b8-0f47-44a0-8412-7606f78003ac"
       },
       {
-        "ColumnUId": "33db271f-4440-457b-a15c-05f6e83ad8a8",
+        "ColumnUId": "fde3d1eb-6629-4a28-9621-daa6c6eb4c1f",
         "IsForceUpdate": false,
         "IsKey": false,
-        "ColumnName": "Type",
-        "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"
+        "ColumnName": "ViewsCount",
+        "DataTypeValueUId": "6b6b74e2-820d-490e-a017-2b73d4ccf2b0"
       }
     ]
   }

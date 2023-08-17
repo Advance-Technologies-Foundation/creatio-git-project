@@ -2,7 +2,7 @@
 <Resources Culture="vi-VN">
 	<Group Type="String">
 		<Items>
-			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Tin tức ESN" />
+			<Item Name="LocalizableStrings.ESNTabCaption.Value" Value="Tin tức" />
 			<Item Name="LocalizableStrings.PlaybookDetailDetailCaptionOnPage.Value" Value="Playbook" />
 			<Item Name="LocalizableStrings.PlaybookTabCaption.Value" Value="Playbook" />
 			<Item Name="LocalizableStrings.SubscribeCaption.Value" Value="Theo dõi tin tức" />

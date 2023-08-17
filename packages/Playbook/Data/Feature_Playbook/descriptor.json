@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "f0a619fc-f525-eb6c-0b7f-567d4e57f49b",
     "Name": "Feature_Playbook",
-    "ModifiedOnUtc": "\/Date(1681849404000)\/",
+    "ModifiedOnUtc": "\/Date(1690381414000)\/",
     "InstallType": 0,
     "Schema": {
       "UId": "28f8de6e-0c1e-4100-a868-11c6b934575f",
@@ -24,18 +24,18 @@
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
       },
       {
-        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
-        "IsForceUpdate": false,
-        "IsKey": false,
-        "ColumnName": "Name",
-        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
-      },
-      {
         "ColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
         "IsForceUpdate": false,
         "IsKey": true,
         "ColumnName": "Id",
         "DataTypeValueUId": "23018567-a13c-4320-8687-fd6f9e3699bd"
+      },
+      {
+        "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
+        "IsForceUpdate": false,
+        "IsKey": false,
+        "ColumnName": "Name",
+        "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
       }
     ]
   }

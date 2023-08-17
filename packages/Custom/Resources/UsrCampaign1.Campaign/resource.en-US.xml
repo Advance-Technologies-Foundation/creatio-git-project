@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.CampaignLanding1.Caption" Value="Bpm'online Marketing Demo Version" />
+			<Item Name="BaseElements.MarketingEmail2.Caption" Value="Follow up after the registration" />
+			<Item Name="Caption" Value="Trigger campaign: greeting email after the registration on the website (sample)" />
+		</Items>
+	</Group>
+</Resources>

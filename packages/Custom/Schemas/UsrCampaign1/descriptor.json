@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "444f10a6-fc6b-4c71-8f11-9da1cceb8a0c",
+    "Name": "UsrCampaign1",
+    "ModifiedOnUtc": "\/Date(1531475670000)\/",
+    "ManagerName": "CampaignSchemaManager",
+    "Caption": "Trigger campaign: greeting email after the registration on the website (sample)",
+    "DependsOn": []
+  }
+}
