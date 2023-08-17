@@ -1,20 +1,17 @@
-clio createw creatio-git-project
+# Init project repository
+Create git repository
 
-create github repo by admin (use UI)
+# Init workspace
+clio createw <Project_Name>
+START tasks\git-init-workspace.cmd <Project_Repository_Url>
 
-git init
-git add .
-git commit -m "first commit"
-git branch -M master
-git remote add origin https://github.com/Advance-Technologies-Foundation/creatio-git-project.git
-git push -u origin master
+# Create application on dev environment
 
----
-new branch
-update workspaceSettings.json (mention packages)
-update workspaceEnvironmentSettings.json (mention environment)
-clio restorew -e Postman
+# Create development branch for environment
+START tasks\git-create-branch.cmd <Environment_Name>, <PackagesName1,PackagesName2>
 
-Create new branch
-git checkout -b Postman
-clio restorew
+**Change default environment for clio**
+
+
+# Send changes from development environment to git
+START tasks\git-push.cmd
